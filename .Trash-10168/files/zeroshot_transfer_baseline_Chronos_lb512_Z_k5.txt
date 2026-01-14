@@ -1,2 +1,0 @@
-ETTh1_zeroshot_transfer_kbETTh1_512_pred_64_512_retrieve_64_Z_k5_baseline
-mse:0.3574, std:0.0000 ---- mae:0.3633, std:0.0000

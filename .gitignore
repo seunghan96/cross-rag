@@ -3,6 +3,8 @@ datasets/
 results/
 checkpoints/
 retrieval_database/
+build.sh
+Dockerfile
 
 # Large data and model files
 *.csv
