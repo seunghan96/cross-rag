@@ -1,0 +1,32 @@
+{
+  "cross_self": {
+    "error": "mat1 and mat2 shapes cannot be multiplied (1x64 and 512x512)"
+  },
+  "cross": {
+    "error": "mat1 and mat2 shapes cannot be multiplied (1x64 and 512x512)"
+  },
+  "main_cross": {
+    "error": "mat1 and mat2 shapes cannot be multiplied (1x64 and 512x512)"
+  },
+  "main_self": {
+    "error": "mat1 and mat2 shapes cannot be multiplied (1x64 and 512x512)"
+  },
+  "main": {
+    "error": "mat1 and mat2 shapes cannot be multiplied (1x64 and 512x512)"
+  },
+  "self": {
+    "error": "mat1 and mat2 shapes cannot be multiplied (1x64 and 512x512)"
+  },
+  "tabpfn_dualhead": {
+    "error": "mat1 and mat2 shapes cannot be multiplied (1x64 and 512x512)"
+  },
+  "chronos_bolt": {
+    "total_params": 49934465,
+    "trainable_params": 49934465,
+    "flops": 754192896.0,
+    "mean_time_ms": 10.857629776000977,
+    "std_time_ms": 1.4622912051150119,
+    "min_time_ms": 9.757518768310547,
+    "max_time_ms": 13.451337814331055
+  }
+}

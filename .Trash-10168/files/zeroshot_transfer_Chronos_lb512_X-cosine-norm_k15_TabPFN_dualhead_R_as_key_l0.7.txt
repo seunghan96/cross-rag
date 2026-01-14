@@ -1,0 +1,8 @@
+ETTh1_zeroshot_transfer_kbETTh1_512_pred_64_512_retrieve_64_X-cosine-norm_k15_TabPFN_dualhead_R_as_key_l0.7
+mse:0.3414, std:0.0000 ---- mae:0.3673, std:0.0000
+ETTh2_zeroshot_transfer_kbETTh2_512_pred_64_512_retrieve_64_X-cosine-norm_k15_TabPFN_dualhead_R_as_key_l0.7
+mse:0.2456, std:0.0000 ---- mae:0.3008, std:0.0000
+ETTm1_zeroshot_transfer_kbETTm1_512_pred_64_512_retrieve_64_X-cosine-norm_k15_TabPFN_dualhead_R_as_key_l0.7
+mse:0.2895, std:0.0000 ---- mae:0.3196, std:0.0000
+ETTm2_zeroshot_transfer_kbETTm2_512_pred_64_512_retrieve_64_X-cosine-norm_k15_TabPFN_dualhead_R_as_key_l0.7
+mse:0.1453, std:0.0000 ---- mae:0.2243, std:0.0000

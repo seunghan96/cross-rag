@@ -1,0 +1,4 @@
+bash script/01.zero_chronos.sh z        # (1) Z-space (모델 임베딩, 기본)
+bash script/01.zero_chronos.sh x-cos    # (2) X-space cosine
+bash script/01.zero_chronos.sh x-euc    # (3) X-space euclidean
+bash script/01.zero_chronos.sh x-dtw    # (4) X-space DTW

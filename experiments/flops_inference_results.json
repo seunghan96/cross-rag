@@ -1,0 +1,74 @@
+{
+  "cross_self": {
+    "total_params": 52297857,
+    "trainable_params": 52297857,
+    "flops": 756548096.0,
+    "mean_time_ms": 9.077506065368652,
+    "std_time_ms": 0.20954010184806943,
+    "min_time_ms": 8.969783782958984,
+    "max_time_ms": 11.128664016723633
+  },
+  "cross": {
+    "total_params": 52297857,
+    "trainable_params": 52297857,
+    "flops": 751828992.0,
+    "mean_time_ms": 9.884190559387207,
+    "std_time_ms": 0.5055896726332819,
+    "min_time_ms": 8.604288101196289,
+    "max_time_ms": 11.445760726928711
+  },
+  "main_cross": {
+    "total_params": 50721921,
+    "trainable_params": 50721921,
+    "flops": 751828992.0,
+    "mean_time_ms": 9.726486206054688,
+    "std_time_ms": 0.7612788820270754,
+    "min_time_ms": 8.63790512084961,
+    "max_time_ms": 11.246681213378906
+  },
+  "main_self": {
+    "total_params": 50721921,
+    "trainable_params": 50721921,
+    "flops": 755499008.0,
+    "mean_time_ms": 8.98167610168457,
+    "std_time_ms": 0.9865551307697776,
+    "min_time_ms": 8.553743362426758,
+    "max_time_ms": 14.13273811340332
+  },
+  "main": {
+    "total_params": 49671297,
+    "trainable_params": 49671297,
+    "flops": 751304704.0,
+    "mean_time_ms": 9.738564491271973,
+    "std_time_ms": 0.3010777542272369,
+    "min_time_ms": 9.169578552246094,
+    "max_time_ms": 10.911703109741211
+  },
+  "self": {
+    "total_params": 50721921,
+    "trainable_params": 50721921,
+    "flops": 755499008.0,
+    "mean_time_ms": 9.962120056152344,
+    "std_time_ms": 1.2785092592241103,
+    "min_time_ms": 8.60738754272461,
+    "max_time_ms": 12.230873107910156
+  },
+  "tabpfn_dualhead": {
+    "total_params": 52297857,
+    "trainable_params": 52297857,
+    "flops": 756548096.0,
+    "mean_time_ms": 10.656514167785645,
+    "std_time_ms": 0.6925803376901827,
+    "min_time_ms": 9.733915328979492,
+    "max_time_ms": 14.028549194335938
+  },
+  "chronos_bolt": {
+    "total_params": 49934465,
+    "trainable_params": 49934465,
+    "flops": 754192896.0,
+    "mean_time_ms": 10.442297458648682,
+    "std_time_ms": 0.9381504140198198,
+    "min_time_ms": 8.803844451904297,
+    "max_time_ms": 12.850046157836914
+  }
+}

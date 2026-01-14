@@ -1,0 +1,14 @@
+exchange_rate_zeroshot_512_pred_64_512_retrieve_64_X-cosine-norm_k15_TabPFN_dualhead_learnable
+mse:0.0653, std:0.0000 ---- mae:0.1756, std:0.0000
+ETTh1_zeroshot_512_pred_64_512_retrieve_64_X-cosine-norm_k15_TabPFN_dualhead_learnable
+mse:0.3553, std:0.0000 ---- mae:0.3625, std:0.0000
+ETTh2_zeroshot_512_pred_64_512_retrieve_64_X-cosine-norm_k15_TabPFN_dualhead_learnable
+mse:0.2530, std:0.0000 ---- mae:0.3053, std:0.0000
+ETTm1_zeroshot_512_pred_64_512_retrieve_64_X-cosine-norm_k15_TabPFN_dualhead_learnable
+mse:0.2947, std:0.0000 ---- mae:0.3150, std:0.0000
+ETTm2_zeroshot_512_pred_64_512_retrieve_64_X-cosine-norm_k15_TabPFN_dualhead_learnable
+mse:0.1457, std:0.0000 ---- mae:0.2249, std:0.0000
+weather_zeroshot_512_pred_64_512_retrieve_64_X-cosine-norm_k15_TabPFN_dualhead_learnable
+mse:0.1480, std:0.0000 ---- mae:0.1814, std:0.0000
+electricity_zeroshot_512_pred_64_512_retrieve_64_X-cosine-norm_k15_TabPFN_dualhead_learnable
+mse:0.1124, std:0.0000 ---- mae:0.2002, std:0.0000
