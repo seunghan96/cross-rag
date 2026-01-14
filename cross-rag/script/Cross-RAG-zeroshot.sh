@@ -1,7 +1,7 @@
 #!/bin/bash
 # -*- coding: utf-8 -*-
 set -e
-cd "$(dirname "$0")/.."  # ts-rag/ts-rag 디렉터리로 이동
+cd "$(dirname "$0")/.."  
 
 export CUDA_VISIBLE_DEVICES="${CUDA_VISIBLE_DEVICES:-0}"
 export MODEL=CrossRAG
