@@ -13,7 +13,7 @@ The markdown and code below are based on the implementation of [**TS-RAG**](http
 
 **Cross-RAG** is a zero-shot retrieval-augmented forecasting framework that selectively attends to query-relevant retrieved samples using cross-attention.
 
-![Figure 1: Cross-attention for RAG in TS](cross-rag/images/crossrag_overview.png)
+<img src="cross-rag/images/crossrag_overview.png" alt="Figure 1: Cross-attention for RAG in TS" width="40%">
 
 While previous works aggregate retrieved samples without explicitly modeling the relationship between the query and the retrieved inputs, Cross-RAG performs \textit{input-aware} fusion by using \textit{cross-attention} to weight retrieved samples based on the input similarity.
 
