@@ -1,6 +1,5 @@
 # Cross-RAG: Zero-Shot Retrieval-Augmented Time Series Forecasting via Cross-Attention
 
-<br>
 
 ## Introduction
 
