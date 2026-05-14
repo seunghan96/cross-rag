@@ -96,6 +96,18 @@ After downloading the datasets and code, your file structure should look like th
   ```
 
 
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@article{lee2026cross,
+  title={Cross-RAG: Zero-Shot Retrieval-Augmented Time Series Forecasting via Cross-Attention},
+  author={Lee, Seunghan and Lee, Jaehoon and Seo, Jun and Yoo, Sungdong and Kim, Minjae and Lim, Tae Yoon and Kang, Dongwan and Choi, Hwanil and Lee, SoonYoung and Ahn, Wonbin},
+  journal={arXiv preprint arXiv:2603.14709},
+  year={2026}
+}
+```
 
 ## Acknowledgements
 
