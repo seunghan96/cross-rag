@@ -66,7 +66,7 @@ After downloading the datasets and code, your file structure should look like th
 │   ├── ETT-small
 │   └── weather
 ├── retrieval_database
-├── ts-rag
+├── cross-rag
 │   ├── models
 │   ├── results
 │   │   └── forecast_evaluation
