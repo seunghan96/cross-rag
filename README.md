@@ -1,4 +1,4 @@
-# Cross-RAG: Zero-Shot Retrieval-Augmented Time Series Forecasting via Cross-Attention
+# Not All Retrievals are Useful: Cross-Attention for Input-Aware RAG in Time Series Forecasting
 
 
 ## Introduction
@@ -102,9 +102,9 @@ If you find this work useful, please cite:
 
 ```bibtex
 @article{lee2026cross,
-  title={Cross-RAG: Zero-Shot Retrieval-Augmented Time Series Forecasting via Cross-Attention},
+  title={Not All Retrievals are Useful: Cross-Attention for Input-Aware RAG in Time Series Forecasting},
   author={Lee, Seunghan and Lee, Jaehoon and Seo, Jun and Yoo, Sungdong and Kim, Minjae and Lim, Tae Yoon and Kang, Dongwan and Choi, Hwanil and Lee, SoonYoung and Ahn, Wonbin},
-  journal={arXiv preprint arXiv:2603.14709},
+  journal={KDD Workshop},
   year={2026}
 }
 ```
